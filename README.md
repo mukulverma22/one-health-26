@@ -1,4 +1,5 @@
 # 🧬 One Health Bioinformatics Workshop 2026
+  <img src="https://raw.githubusercontent.com/alo7lika/PyVerse/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ![Workshop Dates](https://img.shields.io/badge/Dates-March%2016--20,%202026-blue?style=for-the-badge)
 ![Organization](https://img.shields.io/badge/CSIR--IGIB-ICMR-success?style=for-the-badge)
@@ -122,6 +123,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 > *"Alone we can do so little; together we can do so much." — Helen Keller*
 
 **A special thank you to all the unnamed volunteers, administrative staff, and supporting members behind the scenes. This 5-day intensive workshop would not be possible without the collective effort of the entire IGIB community.**
+  <img src="https://raw.githubusercontent.com/alo7lika/PyVerse/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📞 Contact Information
 
