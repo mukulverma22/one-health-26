@@ -4,8 +4,8 @@
 ## 🎯 Today's Objectives
 Welcome to Day 1! Today is all about setting up our computational environments and getting comfortable with the command line, which is the backbone of bioinformatics analysis.
 
-## 📂 Notebooks in this Directory
-* `Day1_Linux_Basics.ipynb`: We will cover installation, system setup, command-line navigation, and core Unix utilities (like `grep`, `awk`, `sed`). We will also dive into BASH scripting and package management using Conda.
+## 📂 Files in this Directory
+* We will cover installation, system setup, command-line navigation, and core Unix utilities (like `grep`, `awk`, `sed`). We will also dive into BASH scripting and package management using Conda.
 
 ## 🛠️ Tools Covered
 * **seqkit** & **seqtk**: Fast and lightweight tools for manipulating FASTA/FASTQ sequences.
